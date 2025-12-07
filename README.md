@@ -14,7 +14,7 @@ Built for real tenders. Works with SANS 1200. Handles 100-page PDFs without expl
 - Full raw AI output view for debugging
 
 ## Live demo
-(Will be added soon → currently deploying)
+https://qs-ai-sa.streamlit.app/
 
 ## Why this actually works
 Other tools send the entire 100-page PDF at once → R150+ per run + hallucinations.  
@@ -32,3 +32,4 @@ WhatsApp: 061 499 6303
 Email   : thokoman@gmail.com  
 
 LinkedIn: https://www.linkedin.com/in/thokozani-buthelezi
+

@@ -28,5 +28,7 @@ Free pilot → honest feedback → paid projects.
 Built by a final-year Computer Science student at University of Johannesburg.
 
 WhatsApp: 061 499 6303
+
 Email   : thokoman@gmail.com  
+
 LinkedIn: https://www.linkedin.com/in/thokozani-buthelezi

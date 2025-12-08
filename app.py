@@ -1,4 +1,4 @@
-# app.py  — Cloud-ready, page-splitting, smart-skip mode (Option 1 + C)
+# app.py  
 import streamlit as st
 import anthropic
 import pandas as pd
@@ -449,3 +449,4 @@ if st.button("🟢 Extract BOQ (page-by-page)"):
 st.markdown("---")
 st.caption("Notes: This cloud-safe edition splits PDFs into pages and sends one page per AI call. Smart-skip mode returns [] for non-relevant pages. Encourage users to upload clean, scaled drawings and/or an explicit price CSV for accurate costing.")
 st.caption("Build by a UJ Computer Science student. Free pilots this week. DM for tweaks.")
+
